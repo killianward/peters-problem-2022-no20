@@ -1,0 +1,6 @@
+Sixty €1 coins are placed side by side in a straight row.
+Every second coins is then replaced bu a 50c coin.
+Every third coin is then replaced by a 20c coin.
+Every fourth coin is then replaced by a 10c coin.
+
+What is the value of all the coins in the row now?
